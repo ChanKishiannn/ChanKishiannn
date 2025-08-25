@@ -6,7 +6,7 @@ Aspiring to be Software Engineer
 Currently Exploring: Java, Python, and Web Development
 
 ---
-## 🛠️ Skills and Tools
+## Skills and Tools
 - Java, Python, HTML, CSS, JavaScript
 - Git & GitHub
 - Learning: AI, Web Development, Software Development, Networking.
