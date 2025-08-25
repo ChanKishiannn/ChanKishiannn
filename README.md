@@ -2,7 +2,7 @@
 
 Information Technology (2nd Year Drop out)  
 Self Though Programmer (Currently Learning)  
-🚀 Aspiring to be Software Engineer  
+Aspiring to be Software Engineer  
 💻 Currently Exploring: Java, Python, and Web Development
 
 ---
