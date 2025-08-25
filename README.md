@@ -16,5 +16,5 @@ Currently Exploring: Java, Python, and Web Development
 - Build real-world projects
 - Build something meaningful  
 - Create my own game *(because it's fun!)*  
-- 🔜 Learn Python & Machine Learning  
+- Learn Python & Machine Learning  
 - 🚀 Become a professional developer  
