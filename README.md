@@ -14,7 +14,7 @@ Currently Exploring: Java, Python, and Web Development
 ---
 ## Goals
 - Build real-world projects
-- 🛠️ Build something meaningful  
+- Build something meaningful  
 - ✅ Create my own game *(because it's fun!)*  
 - 🔜 Learn Python & Machine Learning  
 - 🚀 Become a professional developer  
