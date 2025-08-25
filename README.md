@@ -17,4 +17,4 @@ Currently Exploring: Java, Python, and Web Development
 - Build something meaningful  
 - Create my own game *(because it's fun!)*  
 - Learn Python & Machine Learning  
-- 🚀 Become a professional developer  
+- Become a professional developer  
