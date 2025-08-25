@@ -12,7 +12,7 @@ Currently Exploring: Java, Python, and Web Development
 - Learning: AI, Web Development, Software Development, Networking.
 
 ---
-## 🎯 Goals
+## Goals
 - ✅ Build real-world projects
 - 🛠️ Build something meaningful  
 - ✅ Create my own game *(because it's fun!)*  
